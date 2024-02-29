@@ -1,0 +1,40 @@
+body {
+    font-family:URW Chancery L, cursive;
+    background-image: url("background1.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+p {
+    margin: auto;
+    color:rgba(133, 112, 125, 0.619);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1{
+    font-family: cursive;
+    color: rgb(255, 127, 167);
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2, h3, h4, h5 {
+    font-family: cursive;
+    color: rgb(255, 127, 167);
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+img {
+    margin: auto;
+    display: block;
+    max-width: 15%;
+    max-height: 15%;
+    border: 2px solid rgb(117, 117, 117);
+}
+
+a{
+    color:rgb(255, 64, 169) !important;
+}
